@@ -1,0 +1,19 @@
+.env
+__pycache__/
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Streamlit
+.streamlit/
